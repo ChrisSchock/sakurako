@@ -1,0 +1,7 @@
+!commands edit hi $(eval const resp1 = ['こんにちは ', 'Hey ', 'Hello ', 'Hi ', 'Heya ', 'おはよう ']; resp1[Math.floor(Math.random() * resp1.length)];) $(touser)! $(eval const resp2 = ['Long time no see sakura39Shock', 'Good to see you sakura39Heart', 'What a nice surprise sakura39Oh', 'Welcome to the Sakura Forest sakura39Salute', 'Looking good today sakura39Thumbsup', 'New haircut? sakura39Oh', 'Glad you could make it sakura39Heart']; resp2[Math.floor(Math.random() * resp2.length)];)
+
+
+!commands edit bye $(eval const responses1 = ['See ya ', 'Later ', 'Bye ', 'Adios ', 'またね ']; responses1[Math.floor(Math.random() * responses1.length)];) $(touser)! $(eval const responses2 = ['Have a great one sakura39Heart', 'Gonna miss ya sakura39Heart', 'Hope you had fun sakura39Oh', 'Talk to you later sakura39Salute', '頑張ってくださいね sakura39Thumbsup', 'Thanks for stopping by sakura39Heart', 'May the force be with you sakura39Salute']; responses2[Math.floor(Math.random() * responses2.length)];)
+
+
+!commands edit hello $(eval const responses = ['Hello!', 'Hi!', 'Hey!', 'Yo!', 'Hola!', 'Heyo!', 'Heya!']; responses[Math.floor(Math.random() * responses.length)];) $(touser), $(eval const responses = ['How are you?', 'How’s it going?', 'What’s up?', 'How ya doing?', 'Long time no see?', 'Glad you could make it!', 'What a nice surprise!', 'New haircut?', 'Welcome to the stream!', 'Looking good today!', 'Good to see you!']; responses[Math.floor(Math.random() * responses.length)];)  sakura39Salute sakura39Heart
